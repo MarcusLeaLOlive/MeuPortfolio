@@ -1,0 +1,7 @@
+# arquivos do repositório que não precisam ir para o site
+docs/
+README.md
+CLAUDE.md
+DESIGN.md
+PRODUCT.md
+.gitignore

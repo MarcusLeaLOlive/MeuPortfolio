@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Página não encontrada · Marcus Leal</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#020202">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+  :root { color-scheme: dark; --bg: #020202; --card: #0d0d0d; --fg: #f2f2f2; --muted: #8a8a8a; --line: #262626; }
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; min-height: 100dvh; display: grid; place-items: center; background: radial-gradient(60% 50% at 70% 20%, #1a1a1a, var(--bg) 70%) fixed; color: var(--fg);
+    font-family: "Inter", system-ui, sans-serif; padding: max(24px, env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) max(24px, env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left)); }
+  main { width: min(560px, 100%); display: grid; gap: 18px; }
+  .prompt { width: fit-content; font-family: "JetBrains Mono", monospace; font-size: 13px; color: #d6d6d6; border: 1px solid rgba(255,255,255,.18); background: rgba(255,255,255,.05); border-radius: 6px; padding: 6px 12px; }
+  .prompt b { animation: blink 1s steps(1) infinite; }
+  h1 { margin: 0; font-size: clamp(72px, 18vw, 140px); line-height: .9; letter-spacing: -.05em; font-weight: 800; }
+  h1 span { background: linear-gradient(180deg, #bdbdbd, #6b6b6b); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+  p { margin: 0; color: #a3a3a3; font-size: 17px; line-height: 1.6; }
+  .actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 8px; }
+  a.btn { display: inline-flex; align-items: center; gap: 10px; padding: 13px 22px; border-radius: 8px; text-decoration: none; font-weight: 600; border: 1px solid var(--line); color: var(--fg); background: var(--card); }
+  a.btn.primary { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+  a.btn:focus-visible { outline: 2px solid var(--fg); outline-offset: 3px; }
+  @keyframes blink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .prompt b { animation: none; } }
+</style>
+</head>
+<body>
+<main>
+  <span class="prompt">root@marcusleal:~# cd pagina <b>_</b></span>
+  <h1>404<span>.</span></h1>
+  <p>Essa página não existe ou mudou de lugar. Volte para o início para ver meus projetos e minha stack.</p>
+  <div class="actions">
+    <a class="btn primary" href="/">Voltar ao início →</a>
+    <a class="btn" href="/#projetos">Ver projetos</a>
+  </div>
+</main>
+</body>
+</html>

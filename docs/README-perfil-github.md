@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Marcus Leal 👋</h1>
+<h1>Olá, eu sou o Marcus Leal </h1>
 
 <p>
   <b>Estudante full-stack</b> de Teresina (PI), cursando <b>Análise e Desenvolvimento de Sistemas</b> na UNINASSAU.<br>
@@ -6,13 +6,13 @@
 </p>
 
 <p>
-  <a href="https://marcus-leal-portfolio.vercel.app">🌐 Portfólio</a> ·
-  <a href="mailto:moliveiralealbatis@gmail.com">✉️ moliveiralealbatis@gmail.com</a>
+  <a href="https://marcusleal.site">Portfólio</a> ·
+  <a href="mailto:moliveiralealbatis@gmail.com">moliveiralealbatis@gmail.com</a>
 </p>
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 **Desenvolvimento:** JavaScript · TypeScript · React · React Native · Node.js · Ruby on Rails
 **Banco de dados e IA:** PostgreSQL · Supabase · SQL · API da Anthropic (Claude)
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
@@ -32,8 +32,8 @@
 
 ---
 
-### 📌 Agora
+### Agora
 
-- 📚 Estudando Análise e Desenvolvimento de Sistemas
-- 🤖 Integrando IA às aplicações com a API do Claude
-- 🤝 Aberto a estágios, projetos e colaborações
+- Estudando Análise e Desenvolvimento de Sistemas
+- Integrando IA às aplicações com a API do Claude
+- Aberto a estágios, projetos e colaborações

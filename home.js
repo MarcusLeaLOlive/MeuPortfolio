@@ -8,12 +8,12 @@
     ['h', 'f22669e'], ['', ' 2026-11-24  Adiciona modelagem do banco de dados (PostgreSQL) '], ['d', '(lumen-store)\n'],
     ['h', '8495a14'], ['', ' 2026-11-20  Lumen Store: e-commerce completo em React + Vite '], ['d', '(lumen-store)\n'],
     ['h', 'a9a5084'], ['', ' 2026-11-20  Protótipo Gestão que Transforma: app do empreendedor e painel '], ['d', '(gestao-que-transforma)\n'],
-    ['h', 'c25d87f'], ['', ' 2026-09-10  🎉 Commit Inicial '], ['d', '(calculadora-ir)\n'],
+    ['h', 'c25d87f'], ['', ' 2026-09-10  Commit Inicial '], ['d', '(calculadora-ir)\n'],
     ['h', '425e205'], ['', ' 2026-08-12  Zip '], ['d', '(cadastro-clientes)\n'],
     ['h', '9d1eb0e'], ['', ' 2026-08-12  Rename project to Sistema-Cadastro-Clientes-Py\n'],
     ['h', 'f0d0e3a'], ['', ' 2026-08-12  Projeto - Sistema de Cadastro\n'],
     ['h', '48cb267'], ['', ' 2026-08-12  first commit\n'],
-    ['p', '$ '], ['', 'echo $PROJETO_ATUAL\n'], ['', 'Fluxo CRM: no ar 🚀']
+    ['p', '$ '], ['', 'echo $PROJETO_ATUAL\n'], ['', 'Fluxo CRM: no ar']
   ];
   const pre = document.getElementById('term');
   const render = n => {

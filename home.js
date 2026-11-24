@@ -166,7 +166,7 @@
 // stack digitada no topo
 (() => {
   const el = document.getElementById('stk'); if (!el) return;
-  const items = ['JavaScript · Python · SQLite', 'HTML · CSS · Git'];
+  const items = ['React · Node.js · TypeScript', 'PostgreSQL · Supabase · SQL', 'React Native · Ruby on Rails', 'Git · Linux · Scrum'];
   let k = 0, n = items[0].length, del = false;
   const tick = () => {
     const s = items[k];
